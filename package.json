@@ -14,7 +14,7 @@
     "babel-plugin-emotion": "^10.0.33",
     "firebase": "^7.15.0",
     "firebase-admin": "^8.12.1",
-    "next": "9.4.4",
+    "next": "13.0.2",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "yarn": "^1.22.4"
